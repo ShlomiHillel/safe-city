@@ -6,12 +6,13 @@
 ## description:
 This is **SafeCity**,
 A Full-Stack system that centralizes the major aspects of civil security and public safety.
+<br><br>
 
 ## purpose:
 to easy **control events** of civil security and Urban incidents that affect the safety of residents.
 to easy **reporting** regarding civil security and Urban malfunctions
 to **Reflect** the state of public safety in a particular area
-
+<br><br>
 
 ## technology stack:
 
