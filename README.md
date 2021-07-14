@@ -1,18 +1,21 @@
 ﻿# safe-city
-#### Full Stack - MERN Project
- 
+##### Full Stack - MERN Project
+ <br />
+ <br />
  
 
 ## description:
 This is **SafeCity**,
 A Full-Stack system that centralizes the major aspects of civil security and public safety.
-<br><br>
+
+<br />
 
 ## purpose:
 to easy **control events** of civil security and Urban incidents that affect the safety of residents.
 to easy **reporting** regarding civil security and Urban malfunctions
 to **Reflect** the state of public safety in a particular area
-<br><br>
+
+<br />
 
 ## technology stack:
 
@@ -23,6 +26,7 @@ a **M.E.R.N** full-stack, **MVC** design pattern app:
 **React** - a client-side JavaScript framework
 **NodeJs** - the premier JavaScript web server
 
+<br />
 
 ### React.js Front End
 The top tier of the MERN stack is React.js, the declarative JavaScript framework for creating dynamic client-side applications in HTML. React lets you build up complex interfaces through simple Components, connect them to data on your backend server, and render them as HTML.
