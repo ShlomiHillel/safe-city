@@ -20,7 +20,7 @@ to easy **control events** of civil security and Urban incidents that affect the
 to easy **reporting** regarding civil security and Urban malfunctions<br />
 
 to **Reflect** the state of public safety in a particular area<br />
-
+<br />
 
 ## technology stack:
 <br />
