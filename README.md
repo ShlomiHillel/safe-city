@@ -21,10 +21,10 @@ to **Reflect** the state of public safety in a particular area
 
 a **M.E.R.N** full-stack, **MVC** design pattern app: 
 
-**MongoDB** - document database
-**Express** - Node.js web framework
-**React** - a client-side JavaScript framework
-**NodeJs** - the premier JavaScript web server
+**MongoDB** - document database <br />
+**Express** - Node.js web framework <br />
+**React** - a client-side JavaScript framework <br />
+**NodeJs** - the premier JavaScript web server<br />
 
 <br />
 
