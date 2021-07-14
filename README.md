@@ -5,12 +5,16 @@
  
 
 ## description:
+<br />
+
 This is **SafeCity**,
 A Full-Stack system that centralizes the major aspects of civil security and public safety.
 
 <br />
 
 ## purpose:
+<br />
+
 to easy **control events** of civil security and Urban incidents that affect the safety of residents.
 to easy **reporting** regarding civil security and Urban malfunctions
 to **Reflect** the state of public safety in a particular area
@@ -18,6 +22,7 @@ to **Reflect** the state of public safety in a particular area
 <br />
 
 ## technology stack:
+<br />
 
 a **M.E.R.N** full-stack, **MVC** design pattern app: 
 
@@ -32,6 +37,7 @@ a **M.E.R.N** full-stack, **MVC** design pattern app:
 The top tier of the MERN stack is React.js, the declarative JavaScript framework for creating dynamic client-side applications in HTML. React lets you build up complex interfaces through simple Components, connect them to data on your backend server, and render them as HTML.
 
 React’s strong suit is handling stateful, data-driven interfaces with minimal code and minimal pain, and it has all the bells and whistles you’d expect from a modern web framework: great support for forms, error handling, events, lists, and more.
+
 
 #### Express.js and Node.js Server Tier
 The next level down is the Express.js server-side framework, running inside a Node.js server. Express.js bills itself as a “fast, unopinionated, minimalist web framework for Node.js,” and that is indeed exactly what it is. Express.js has powerful models for URL routing (matching an incoming URL with a server function), and handling HTTP requests and responses.
