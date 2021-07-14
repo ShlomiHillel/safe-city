@@ -1,0 +1,25 @@
+{
+  "name": "safecity-project",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000a\u0000f\u0000e\u0000-\u0000-\u0000-\u0000c\u0000i\u0000t\u0000y\u0000-\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShlomiHillel/safe---city-.git"
+  },
+  "author": "shlomi hillel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShlomiHillel/safe---city-/issues"
+  },
+  "homepage": "https://github.com/ShlomiHillel/safe---city-#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2",
+    "nodemon": "^2.0.12"
+  }
+}
