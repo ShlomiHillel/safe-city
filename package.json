@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShlomiHillel/safe---city-.git"
+    "url": "git+https://github.com/ShlomiHillel/safe-city.git"
   },
   "author": "shlomi hillel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ShlomiHillel/safe---city-/issues"
+    "url": "https://github.com/ShlomiHillel/safe-city/issues"
   },
-  "homepage": "https://github.com/ShlomiHillel/safe---city-#readme",
+  "homepage": "https://github.com/ShlomiHillel/safe-city#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
